@@ -11,9 +11,9 @@
     </parent>
 
     <groupId>br.com.dev</groupId>
-    <artifactId>first-step</artifactId>
+    <artifactId>calculator-math</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>first-step</name>
+    <name>calculator-math</name>
 
 	<properties>
         <java.version>19</java.version>
